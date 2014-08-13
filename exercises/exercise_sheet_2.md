@@ -1,3 +1,4 @@
+# Exercise sheet 2
 1. Improve your “adding machine” into a calculator. It needs to ask the user for
    2 numbers, and then for an operator (either +, -, * or /). It then needs to
    apply the operator to the numbers and print the answer C so if the user
